@@ -1,10 +1,5 @@
 # SEPM Einzelphase
 
-## Author
-
-Name: Nachname, Vorname\
-Matrikelnummer: e01234567
-
 ## Kurzanleitung
 
 Das Programm kann mit dem Befehl:\
