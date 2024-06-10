@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="535.0" prefWidth="779.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddOrderController">
+   <children>
+      <TextField fx:id="fieldCustomer" layoutX="183.0" layoutY="36.0" />
+      <ComboBox fx:id="boxPaymentmethod" layoutX="32.0" layoutY="76.0" prefWidth="130.0" promptText="Select Payment">
+          <items>
+              <FXCollections fx:factory="observableArrayList">
+                  <String fx:id="iban" fx:value="IBAN" />
+                  <String fx:id="creditcard" fx:value="Credit Card Number" />
+              </FXCollections>
+          </items>
+      </ComboBox>
+      <TextField fx:id="fieldIBAN" layoutX="183.0" layoutY="76.0" />
+      <Label layoutX="67.0" layoutY="40.0" text="Customers Name" />
+      <Label layoutX="31.0" layoutY="120.0" text="Date of Order" />
+      <Label layoutX="386.0" layoutY="27.0" text="Ordered Vehicles" />
+      <Label layoutX="97.0" layoutY="270.0" text="Total Order" />
+      <DatePicker fx:id="datePickerStart" layoutX="183.0" layoutY="116.0" />
+      <ComboBox fx:id="choiceHourStart" layoutX="182.0" layoutY="153.0" prefWidth="60.0">
+          <items>
+              <FXCollections fx:factory="observableArrayList">
+                  <String fx:id="00" fx:value="00" />
+                  <String fx:id="01" fx:value="01" />
+                  <String fx:id="02" fx:value="02" />
+                  <String fx:id="03" fx:value="03" />
+                  <String fx:id="04" fx:value="04" />
+                  <String fx:id="05" fx:value="05" />
+                  <String fx:id="06" fx:value="06" />
+                  <String fx:id="07" fx:value="07" />
+                  <String fx:id="08" fx:value="08" />
+                  <String fx:id="09" fx:value="09" />
+                  <String fx:id="10" fx:value="10" />
+                  <String fx:id="11" fx:value="11" />
+                  <String fx:id="12" fx:value="12" />
+                  <String fx:id="13" fx:value="13" />
+                  <String fx:id="14" fx:value="14" />
+                  <String fx:id="15" fx:value="15" />
+                  <String fx:id="16" fx:value="16" />
+                  <String fx:id="17" fx:value="17" />
+                  <String fx:id="18" fx:value="18" />
+                  <String fx:id="19" fx:value="19" />
+                  <String fx:id="20" fx:value="20" />
+                  <String fx:id="21" fx:value="21" />
+                  <String fx:id="22" fx:value="22" />
+                  <String fx:id="23" fx:value="23" />
+              </FXCollections>
+          </items>
+      </ComboBox>
+      <DatePicker fx:id="datePickerEnd" layoutX="183.0" layoutY="196.0" />
+       <ComboBox fx:id="choiceHourEnd" layoutX="182.0" layoutY="234.0" prefWidth="60.0">
+           <items>
+               <FXCollections fx:factory="observableArrayList">
+                   <String fx:id="00" fx:value="00" />
+                   <String fx:id="01" fx:value="01" />
+                   <String fx:id="02" fx:value="02" />
+                   <String fx:id="03" fx:value="03" />
+                   <String fx:id="04" fx:value="04" />
+                   <String fx:id="05" fx:value="05" />
+                   <String fx:id="06" fx:value="06" />
+                   <String fx:id="07" fx:value="07" />
+                   <String fx:id="08" fx:value="08" />
+                   <String fx:id="09" fx:value="09" />
+                   <String fx:id="10" fx:value="10" />
+                   <String fx:id="11" fx:value="11" />
+                   <String fx:id="12" fx:value="12" />
+                   <String fx:id="13" fx:value="13" />
+                   <String fx:id="14" fx:value="14" />
+                   <String fx:id="15" fx:value="15" />
+                   <String fx:id="16" fx:value="16" />
+                   <String fx:id="17" fx:value="17" />
+                   <String fx:id="18" fx:value="18" />
+                   <String fx:id="19" fx:value="19" />
+                   <String fx:id="20" fx:value="20" />
+                   <String fx:id="21" fx:value="21" />
+                   <String fx:id="22" fx:value="22" />
+                   <String fx:id="23" fx:value="23" />
+               </FXCollections>
+           </items>
+       </ComboBox>
+      <Button fx:id="buttonSelectVehicles" layoutX="386.0" layoutY="494.0" mnemonicParsing="false" onAction="#selectVehiclesButtonPressed" text="Select Vehicles for order" />
+      <Label fx:id="labelTotalOrder" layoutX="183.0" layoutY="270.0" />
+      <Button fx:id="buttonAddNewOrder" layoutX="670.0" layoutY="494.0" mnemonicParsing="false" onAction="#addNewOrderButtonPressed" text="Add new Order" />
+      <Button fx:id="buttonCancelOrder" layoutX="607.0" layoutY="494.0" mnemonicParsing="false" onAction="#cancelOrderButtonPressed" text="Cancel" />
+      <TableView fx:id="orderTableView" layoutX="386.0" layoutY="53.0" prefHeight="429.0" prefWidth="380.0">
+        <columns>
+          <TableColumn fx:id="columnLicense" prefWidth="114.66668701171875" text="License needed" />
+          <TableColumn fx:id="columnName" prefWidth="106.0" text="Vehicle Name" />
+            <TableColumn fx:id="columnPrice" prefWidth="81.714111328125" text="Price" />
+        </columns>
+      </TableView>
+      <Label layoutX="127.0" layoutY="120.0" text="From:" />
+      <Label layoutX="142.0" layoutY="200.0" text="To:" />
+      <Label layoutX="249.0" layoutY="158.0" text=":00" />
+      <Label layoutX="249.0" layoutY="238.0" text=":00" />
+      <ScrollPane fitToWidth="true" layoutX="16.0" layoutY="295.0" prefHeight="187.0" prefWidth="360.0">
+         <content>
+            <VBox fx:id="vBoxLicenses" prefWidth="359.0" />
+         </content>
+      </ScrollPane>
+      <Label fx:id="labelException" layoutX="18.0" layoutY="498.0" textFill="RED" />
+      <Button fx:id="buttonDeleteVehicle" layoutX="675.0" layoutY="23.0" mnemonicParsing="false" onAction="#deleteVehicleButtonPressed" text="Delete Vehicle" />
+   </children>
+</Pane>

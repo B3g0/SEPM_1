@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="588.0" prefWidth="1342.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController">
+   <center>
+      <TableView fx:id="tableViewVehicles" prefHeight="521.0" prefWidth="533.0" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="columnLicense" prefWidth="119.33334600925446" text="License Needed" />
+          <TableColumn fx:id="columnName" prefWidth="107.33330535888672" text="Vehicle Name" />
+            <TableColumn fx:id="columnDrivetrain" minWidth="0.0" prefWidth="122.66670227050781" text="Drivetrain" />
+            <TableColumn fx:id="columnPrice" prefWidth="108.66668701171875" text="Price per hour" />
+        </columns>
+      </TableView>
+   </center>
+   <bottom>
+      <AnchorPane BorderPane.alignment="CENTER">
+         <children>
+            <ButtonBar layoutX="176.0" prefHeight="40.0" prefWidth="609.0">
+              <buttons>
+                  <Button fx:id="buttonDeleteVehicle" mnemonicParsing="false" onAction="#deleteVehicleButtonPressed" text="Delete Vehicle" />
+                  <Button fx:id="buttonEditVehicle" mnemonicParsing="false" onAction="#editVehicleButtonPressed" text="Edit Vehicle" />
+                  <Button fx:id="buttonShowInfo" mnemonicParsing="false" onAction="#showInfoButtonPressed" text="Vehicle Info" />
+                  <Button fx:id="buttonAddNewVehicle" mnemonicParsing="false" onAction="#addNewVehicleButtonPressed" text="Add new Vehicle" />
+              </buttons>
+            </ButtonBar>
+            <ButtonBar layoutX="786.0" prefHeight="40.0" prefWidth="556.0">
+              <buttons>
+                  <MenuButton mnemonicParsing="false" text="Order Actions">
+                    <items>
+                      <MenuItem fx:id="buttonOrderInfo" mnemonicParsing="false" onAction="#orderInfoButtonPressed" text="Order Info" />
+                      <MenuItem fx:id="buttonEditOrder" mnemonicParsing="false" onAction="#editOrderButtonPressed" text="Edit Order" />
+                        <MenuItem fx:id="buttonFinishOrder" mnemonicParsing="false" onAction="#finishOrderButtonPressed" text="Finish Order" />
+                        <MenuItem fx:id="buttonCancelOrder" mnemonicParsing="false" onAction="#cancelOrderButtonPressed" text="Cancel Order" />
+                    </items>
+                  </MenuButton>
+                <Button fx:id="buttonAddNewOrder" mnemonicParsing="false" onAction="#addOrderButtonPressed" text="Add new Order" />
+              </buttons>
+            </ButtonBar>
+         </children>
+      </AnchorPane>
+   </bottom>
+   <top>
+      <ToolBar BorderPane.alignment="CENTER">
+        <items>
+            <CheckBox fx:id="tickBoxEditMode" mnemonicParsing="false" onAction="#tickBoxEditModeSelected" text="Edit Mode" />
+            <CheckBox fx:id="tickBoxDeleteMode" mnemonicParsing="false" onAction="#tickBoxDeleteModeSelected" text="Delete Mode" />
+        </items>
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+      </ToolBar>
+   </top>
+   <right>
+      <TableView fx:id="tableViewOrders" prefHeight="521.0" prefWidth="557.0" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="columnCustomer" prefWidth="110.80706787109375" text="Customer" />
+          <TableColumn fx:id="columnStart" prefWidth="111.0" text="Order Start" />
+            <TableColumn fx:id="columnEnd" prefWidth="111.0" text="Order End" />
+            <TableColumn fx:id="columnState" prefWidth="116.0" text="State" />
+            <TableColumn fx:id="columnPriceTotal" prefWidth="107.0" text="Price total" />
+        </columns>
+      </TableView>
+   </right>
+   <left>
+      <Pane prefHeight="521.0" prefWidth="236.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="14.0" layoutY="10.0" text="Search Vehicle">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="33.0" text="License Needed" />
+            <Label layoutX="14.0" layoutY="334.0" text="Price per hour (min)" />
+            <Label layoutX="14.0" layoutY="385.0" text="Price per hour (max)" />
+            <Label layoutX="14.0" layoutY="130.0" text="Order Period" />
+            <Label layoutX="14.0" layoutY="150.0" text="From" />
+            <Label layoutX="14.0" layoutY="191.0" text="To" />
+            <Label layoutX="14.0" layoutY="80.0" text="Vehicle Name" />
+            <Label layoutX="14.0" layoutY="240.0" text="Drivetrain" />
+            <Label layoutX="14.0" layoutY="285.0" text="Seats" />
+            <ComboBox fx:id="choiceLicense" layoutX="14.0" layoutY="50.0" prefWidth="150.0" promptText="Select license">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:id="noLicenseNeeded" fx:value="No License needed" />
+                        <String fx:id="A" fx:value="A" />
+                        <String fx:id="B" fx:value="B" />
+                        <String fx:id="C" fx:value="C" />
+                    </FXCollections>
+                </items>
+            </ComboBox>
+            <TextField fx:id="fieldName" layoutX="13.0" layoutY="97.0" />
+            <DatePicker fx:id="datePickerStart" layoutX="14.0" layoutY="165.0" />
+            <DatePicker fx:id="datePickerEnd" layoutX="14.0" layoutY="206.0" />
+            <ComboBox fx:id="choiceDrivetrain" layoutX="14.0" layoutY="257.0" prefWidth="150.0" promptText="Select drivetrain">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:id="combustion" fx:value="Combustion Engine" />
+                        <String fx:id="human" fx:value="Operated by human" />
+                    </FXCollections>
+                </items>
+            </ComboBox>
+            <TextField fx:id="fieldSeats" layoutX="15.0" layoutY="302.0" />
+            <TextField fx:id="fieldPriceMin" layoutX="15.0" layoutY="351.0" />
+            <TextField fx:id="fieldPriceMax" layoutX="13.0" layoutY="402.0" />
+            <Button fx:id="buttonSearch" layoutX="14.0" layoutY="441.0" mnemonicParsing="false" onAction="#searchButtonPressed" text="Search" />
+            <Line endX="110.0" layoutX="121.0" layoutY="29.0" startX="-110.0" />
+            <Line endX="110.0" layoutX="118.0" layoutY="130.0" startX="-110.0" />
+            <Line endX="110.0" layoutX="118.0" layoutY="235.0" startX="-110.0" />
+            <Button fx:id="buttonResetSearch" layoutX="177.0" layoutY="441.0" mnemonicParsing="false" onAction="#resetSearchButtonPressed" text="Reset" />
+            <Label fx:id="labelException" layoutX="14.0" layoutY="483.0" textFill="RED" />
+         </children></Pane>
+   </left>
+</BorderPane>

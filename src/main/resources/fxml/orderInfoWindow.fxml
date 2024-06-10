@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="535.0" prefWidth="779.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.InfoWindowController">
+   <children>
+      <Label layoutX="67.0" layoutY="40.0" text="Customers Name" />
+      <Label layoutX="31.0" layoutY="120.0" text="Date of Order" />
+      <Label layoutX="386.0" layoutY="27.0" text="Ordered Vehicles" />
+      <Label layoutX="97.0" layoutY="270.0" text="Total Order" />
+      <Button fx:id="buttonCancelOrder" layoutX="713.0" layoutY="494.0" mnemonicParsing="false" onAction="#cancelOrderButtonPressed" text="Close" />
+      <Label layoutX="127.0" layoutY="120.0" text="From:" />
+      <Label layoutX="142.0" layoutY="160.0" text="To:" />
+      <Label fx:id="labelTotalOrder" layoutX="183.0" layoutY="270.0" />
+      <Label fx:id="labelException" layoutX="18.0" layoutY="498.0" textFill="RED" />
+      <Label fx:id="labelCustomersName" layoutX="182.0" layoutY="40.0" />
+      <Label fx:id="labelPaymentMethod" layoutX="33.0" layoutY="80.0" prefHeight="17.0" prefWidth="124.0" textAlignment="RIGHT" />
+      <Label fx:id="labelPaymentNumber" layoutX="182.0" layoutY="80.0" />
+      <Label fx:id="labelDateStart" layoutX="182.0" layoutY="120.0" />
+      <Label fx:id="labelDateEnd" layoutX="182.0" layoutY="160.0" />
+      <Label fx:id="labelState" layoutX="182.0" layoutY="235.0" />
+      <TableView fx:id="orderTableView" layoutX="386.0" layoutY="53.0" prefHeight="429.0" prefWidth="380.0">
+        <columns>
+          <TableColumn fx:id="columnLicense" prefWidth="114.66668701171875" text="License needed" />
+          <TableColumn fx:id="columnName" prefWidth="106.0" text="Vehicle Name" />
+            <TableColumn fx:id="columnPrice" prefWidth="81.714111328125" text="Price" />
+        </columns>
+      </TableView>
+      <ScrollPane fitToWidth="true" layoutX="16.0" layoutY="295.0" prefHeight="187.0" prefWidth="360.0">
+         <content>
+            <VBox fx:id="vBoxLicenses" prefWidth="359.0" />
+         </content>
+      </ScrollPane>
+      <Label layoutX="127.0" layoutY="235.0" prefHeight="17.0" prefWidth="30.0" text="State:" />
+      <Label fx:id="labelReceipt" layoutX="18.0" layoutY="17.0" text="Receipt No.">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelReceiptNumber" layoutX="105.0" layoutY="17.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="108.0" layoutY="200.0" prefHeight="17.0" prefWidth="52.0" text="Billed on:" />
+      <Label fx:id="labelBillDate" layoutX="182.0" layoutY="200.0" />
+   </children>
+</Pane>

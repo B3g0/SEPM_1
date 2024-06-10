@@ -1,0 +1,3 @@
+18:03:19.717 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+18:03:20.482 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+18:03:22.504 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated

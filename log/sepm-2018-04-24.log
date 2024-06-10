@@ -1,0 +1,78 @@
+16:54:27.244 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:54:30.034 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:54:30.076 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Vehicles added into TableView successfully!
+16:54:30.076 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:54:30.078 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Orders added into TableView successfully!
+16:54:31.500 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:54:37.111 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+16:54:37.112 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+16:54:37.277 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+16:54:38.725 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox None has been checked, A B C unchecked
+16:54:42.480 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox C has been checked, None unchecked
+16:54:57.799 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+16:54:57.859 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.service.RentalService - Seats are not a positive number!
+16:55:02.460 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+16:55:02.461 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:55:02.511 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.service.RentalService - Vehicle added to Database!
+16:55:02.511 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - DTOVehicle 1234 added to database
+16:55:04.326 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:55:04.336 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while loading picture!
+16:55:04.336 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - pictures\2018-04-24 16-55-02.jpg (Das System kann die angegebene Datei nicht finden)
+16:55:04.337 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Vehicles added into TableView successfully!
+16:55:04.338 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:55:04.339 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Orders added into TableView successfully!
+16:55:06.691 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+16:55:06.691 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+16:55:06.795 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+16:55:08.293 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox A has been checked, None unchecked
+16:55:08.893 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox B has been checked, None unchecked
+16:55:09.548 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox A has been checked, None unchecked
+16:55:25.543 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+16:55:25.546 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:55:25.548 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.service.RentalService - Vehicle added to Database!
+16:55:25.548 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - DTOVehicle 23453652354 added to database
+16:55:27.580 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:55:27.581 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while loading picture!
+16:55:27.581 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - pictures\2018-04-24 16-55-02.jpg (Das System kann die angegebene Datei nicht finden)
+16:55:27.582 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while loading picture!
+16:55:27.582 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - pictures\2018-04-24 16-55-25.jpg (Das System kann die angegebene Datei nicht finden)
+16:55:27.582 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Vehicles added into TableView successfully!
+16:55:27.582 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:55:27.583 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Orders added into TableView successfully!
+16:55:28.948 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addOrderButtonPressed
+16:55:28.948 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addOrderWindow
+16:55:28.956 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:55:28.957 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while loading picture!
+16:55:28.957 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - pictures\2018-04-24 16-55-02.jpg (Das System kann die angegebene Datei nicht finden)
+16:55:28.959 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while loading picture!
+16:55:28.959 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - pictures\2018-04-24 16-55-25.jpg (Das System kann die angegebene Datei nicht finden)
+16:55:28.960 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Vehicles added into TableView successfully!
+16:55:29.211 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addOrderWindow successfully opened
+16:56:05.240 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:56:05.269 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddOrderController - Pane successfully added into vBoxLicenses
+16:56:09.914 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:56:09.918 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddOrderController - Pane successfully added into vBoxLicenses
+16:58:21.171 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:58:21.172 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:58:21.180 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while loading picture!
+16:58:21.180 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - pictures\2018-04-24 16-55-02.jpg (Das System kann die angegebene Datei nicht finden)
+16:58:21.181 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Vehicles added into TableView successfully!
+16:58:22.861 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:58:22.863 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while loading picture!
+16:58:22.863 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - pictures\2018-04-24 16-55-02.jpg (Das System kann die angegebene Datei nicht finden)
+16:58:22.864 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while loading picture!
+16:58:22.865 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - pictures\2018-04-24 16-55-25.jpg (Das System kann die angegebene Datei nicht finden)
+16:58:22.865 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Vehicles added into TableView successfully!
+16:58:22.866 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:58:22.866 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Orders added into TableView successfully!
+16:58:42.517 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:59:05.617 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:59:07.534 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:59:07.562 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while loading picture!
+16:59:07.562 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - pictures\2018-04-24 16-55-02.jpg (Das System kann die angegebene Datei nicht finden)
+16:59:07.566 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while loading picture!
+16:59:07.566 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - pictures\2018-04-24 16-55-25.jpg (Das System kann die angegebene Datei nicht finden)
+16:59:07.566 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Vehicles added into TableView successfully!
+16:59:07.566 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Connection to database successfully established!
+16:59:07.567 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Orders added into TableView successfully!
+16:59:08.878 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete

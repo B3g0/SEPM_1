@@ -1,0 +1,21 @@
+09:25:36.363 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+09:26:44.792 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+09:33:21.918 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+09:33:24.229 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+09:33:31.723 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+09:33:31.726 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+09:33:32.165 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+09:33:34.618 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox None has been checked, A B C unchecked
+09:33:35.269 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox B has been checked, None unchecked
+09:33:36.010 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox A has been checked, None unchecked
+09:33:36.650 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox C has been checked, None unchecked
+09:33:37.664 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox None has been checked, A B C unchecked
+09:33:38.513 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox B has been checked, None unchecked
+09:33:44.423 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:11:12.010 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:11:14.904 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:11:18.685 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called editVehicleButtonPressed
+16:11:18.686 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addOrderWindow
+16:11:18.911 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addOrderWindow successfully opened
+16:11:34.624 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addNewOrderWindow closed
+16:11:41.114 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated

@@ -1,0 +1,263 @@
+11:49:13.768 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+11:49:14.579 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+11:51:29.530 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+12:04:39.628 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:04:40.391 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:05:14.880 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:05:15.741 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:09:27.672 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:09:28.456 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:09:33.512 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+12:17:49.865 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:17:50.783 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:17:57.037 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+12:27:03.879 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:27:04.477 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:27:26.917 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+12:29:05.848 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:29:06.307 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:29:10.776 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+12:31:39.391 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:32:41.669 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:32:42.148 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:32:51.904 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+12:34:14.956 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+12:34:19.356 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:34:19.837 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:34:22.010 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+12:39:58.709 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:39:59.204 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:40:00.751 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+12:40:00.930 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow startup complete
+12:40:02.726 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+12:40:02.727 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.service.RentalService - Vehicle does not have a license type specified!
+12:40:19.953 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow closed
+12:40:27.765 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+12:40:46.716 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:40:47.199 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:40:48.093 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButton
+12:40:48.093 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+12:40:48.300 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow startup complete
+12:40:52.486 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+12:40:52.487 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.service.RentalService - Vehicle does not have a license type specified!
+12:40:55.420 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow closed
+12:40:55.976 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+12:44:18.043 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+12:44:18.532 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+12:44:19.831 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+12:44:19.831 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+12:44:19.999 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+12:44:23.143 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow closed
+12:44:25.132 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:00:27.858 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:00:28.156 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+15:00:46.272 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:00:46.566 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+15:02:00.406 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:02:00.689 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+15:02:01.087 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:03:51.851 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:03:52.141 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+15:03:52.529 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:03:53.914 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+15:03:53.915 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+15:03:54.076 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+15:03:55.202 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox C has been checked, None unchecked
+15:03:56.394 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox None has been checked, A B C unchecked
+15:04:02.692 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+15:04:02.865 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Vehicle 456 added to database
+15:04:05.494 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow closed
+15:04:08.345 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:04:10.389 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:04:10.699 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+15:04:11.095 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:04:18.704 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:04:41.654 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:04:41.938 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+15:04:42.337 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:04:44.068 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:06:24.976 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:06:25.267 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+15:06:25.646 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:06:36.062 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:06:59.828 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:07:00.113 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+15:07:00.489 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:07:02.639 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:24:35.899 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:25:40.870 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:26:26.475 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:27:24.262 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:29:50.372 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:29:50.649 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+15:29:51.053 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:29:59.043 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:30:48.011 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:30:48.297 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+15:30:48.673 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:30:58.337 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:31:33.217 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:34:13.698 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:34:58.111 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:35:39.792 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:36:28.158 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:36:29.227 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:36:51.719 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:37:28.032 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:37:29.151 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:37:54.230 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:38:08.472 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:38:09.555 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:38:28.618 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:38:37.354 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:38:38.445 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:38:44.314 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:39:37.213 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:39:54.037 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:39:54.905 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:40:11.436 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:40:45.060 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:42:54.087 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:44:32.657 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:44:59.991 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:45:14.229 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:48:46.968 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:56:46.472 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:57:42.507 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:58:15.020 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:58:16.015 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:58:20.348 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:58:29.793 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:58:30.769 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:58:35.868 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:58:42.638 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:58:52.545 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:58:53.554 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:58:54.887 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:59:26.013 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:59:35.929 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:59:36.860 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+15:59:40.761 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+15:59:49.483 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+15:59:50.378 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:00:14.069 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+16:00:14.069 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+16:00:14.202 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+16:00:30.643 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+16:00:30.643 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+16:00:30.685 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+16:00:35.674 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:00:51.959 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:01:05.162 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:01:06.188 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:01:08.063 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+16:01:08.064 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+16:01:08.199 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+16:01:10.945 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+16:01:10.945 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+16:01:10.991 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+16:01:18.905 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:03:55.528 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:03:56.530 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:04:02.977 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:05:42.475 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:05:43.036 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while getting columns!
+16:05:43.036 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - 90008
+16:06:17.527 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:06:18.535 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:06:59.196 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:07:00.094 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:07:04.051 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:09:38.661 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:09:46.950 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:10:04.421 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:10:28.045 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:10:29.026 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:10:31.428 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:12:13.261 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:12:14.194 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:12:17.535 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:12:35.646 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:12:36.177 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - Error while getting data for table!
+16:12:36.177 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.persistence.RentalPersistence - 90008
+16:12:36.438 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:12:38.862 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:12:50.587 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:12:51.511 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:12:56.459 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:16:49.761 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:16:50.037 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+16:16:50.434 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:16:52.557 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:16:58.697 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:16:59.015 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Error while populating table with data!
+16:16:59.419 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:17:02.008 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:17:40.342 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:17:41.455 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:17:57.258 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+16:17:57.258 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+16:17:57.398 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+16:18:15.248 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:18:51.202 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:18:52.253 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:18:53.994 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+16:18:53.994 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+16:18:54.137 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+16:18:59.274 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+16:18:59.274 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+16:18:59.313 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+16:19:00.126 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox C has been checked, None unchecked
+16:19:08.933 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+16:19:08.964 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Vehicle  hjjkhgk added to database
+16:19:21.766 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:20:16.641 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:20:17.708 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:20:30.340 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:20:51.732 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:20:52.782 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:27:32.553 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:27:33.631 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:27:37.042 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:39:06.783 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:39:07.807 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:39:25.793 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+16:40:23.537 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+16:40:24.669 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+16:40:31.495 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+16:40:31.495 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+16:40:31.634 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+16:40:35.521 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+18:21:46.534 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+18:24:47.166 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+18:24:48.293 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+18:24:58.536 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+18:24:58.536 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+18:24:58.710 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+18:25:06.600 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+18:53:28.197 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+18:53:29.308 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+18:53:34.471 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+19:00:22.755 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+19:00:23.852 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+19:01:25.278 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+19:09:41.766 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+19:09:42.456 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+19:09:44.137 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+19:09:44.137 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+19:09:44.278 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+19:09:45.819 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox C has been checked, None unchecked
+19:09:52.793 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+19:09:52.794 [JavaFX Application Thread] ERROR at.ac.tuwien.sepm.assignment.individual.rentalcars.service.RentalService - Vehicles with A, B or C license have to have a registration specified!
+19:09:54.731 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox None has been checked, A B C unchecked
+19:09:55.255 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+19:09:55.413 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Vehicle 456 added to database
+19:10:00.597 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
+19:11:52.593 [main] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application starting with arguments=[]
+19:11:53.272 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application startup complete
+19:11:54.721 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Called addNewVehicleButtonPressed
+19:11:54.722 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - Opening addVehicleWindow
+19:11:54.865 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.VehicleManagerController - addVehicleWindow successfully opened
+19:11:55.792 [JavaFX Application Thread] INFO at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - Tickbox None has been checked, A B C unchecked
+19:12:00.047 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.rentalcars.ui.AddVehicleController - called buttonAddToDatabasePressed
+19:14:39.892 [JavaFX Application Thread] DEBUG at.ac.tuwien.sepm.assignment.individual.application.MainApplication - Application shutdown initiated
